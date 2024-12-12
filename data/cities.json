@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "073a",
+      "cityName": "Arthur’s Pass",
+      "country": "New Zealand",
+      "emoji": "🇳🇿",
+      "date": "2024-10-17T17:44:26.789Z",
+      "notes": "best pass",
+      "position": {
+        "lat": "-42.76818678478588",
+        "lng": "171.62017822265628"
+      }
+    },
+    {
+      "id": "0e29",
+      "cityName": "Improvement District No. 09 (Banff National Park)",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-10-17T17:52:42.628Z",
+      "notes": "",
+      "position": {
+        "lat": "51.18364725429516",
+        "lng": "-115.54870605468751"
+      }
+    },
+    {
+      "id": "1a79",
+      "cityName": "Albacete",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-17T18:32:44.547Z",
+      "notes": "",
+      "position": {
+        "lat": "39.01064750994083",
+        "lng": "-2.0874023437500004"
+      }
+    },
+    {
+      "id": "ef18",
+      "cityName": "Vila Real",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-10-17T18:33:07.335Z",
+      "notes": "",
+      "position": {
+        "lat": "41.27277500391891",
+        "lng": "-7.907238006591798"
+      }
+    }
+  ]
+}
